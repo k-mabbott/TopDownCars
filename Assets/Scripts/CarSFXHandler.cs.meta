@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 02ace77140f64674b8d7cac2223feb27
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - audioMixer: {fileID: 24100000, guid: e0065016664769749b423959ddf97886, type: 2}
+  - tireScreechingAudioSource: {instanceID: 0}
+  - engineAudioSource: {instanceID: 0}
+  - carHitAudioSource: {instanceID: 0}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
